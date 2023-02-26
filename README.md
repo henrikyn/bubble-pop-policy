@@ -1,5 +1,4 @@
-# bubble-pop-policy
-Bubble Pop Privacy Policy
+# Bubble Pop Privacy Policy
 
 This application does not collect or store personal data.
 
